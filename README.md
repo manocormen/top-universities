@@ -12,4 +12,4 @@ Combine leading university rankings into one using Python and JupyterLab.
 
 ## Output
 
-![Screenshot of the script's output](ranking_cs_2021.png)
+![Screenshot of the script's output](top_ten_cs_2021.png)
