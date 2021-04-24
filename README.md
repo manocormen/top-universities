@@ -4,6 +4,10 @@
 
 Combine leading university rankings into one using Python and JupyterLab.
 
+## Article
+
+[500 Free Computer Science Courses from the World’s Top CS Universities](https://www.classcentral.com/report/cs-online-courses/)
+
 ## Data
 
 * [QS: World University Rankings 2021 — Computer Science & Information Systems](https://www.topuniversities.com/university-rankings/university-subject-rankings/2021/computer-science-information-systems)
