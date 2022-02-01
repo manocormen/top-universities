@@ -1,5 +1,7 @@
 import scrapy
 
+from ranking_scraper.items import RankingScraperItem
+
 
 class TheSpiderSpider(scrapy.Spider):
     name = 'the_spider'
@@ -8,4 +10,10 @@ class TheSpiderSpider(scrapy.Spider):
 
     def parse(self, response):
         data = response.json()  # Convert json to dict
-        yield from data["data"]  # Yield each ranking item
+        ranking_data = data["data"]
+        
+        item = RankingScraperItem()
+        for university in ranking_data:
+            item["name"] = university["name"]
+            item["rank"] = university["rank"]
+            yield item
