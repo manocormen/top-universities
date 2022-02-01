@@ -1,6 +1,6 @@
 import scrapy
 
-from ranking_scraper.items import RankingScraperItem
+from ranking_scraper.items import TheRankingScraperItem
 
 
 class TheSpiderSpider(scrapy.Spider):
@@ -12,7 +12,7 @@ class TheSpiderSpider(scrapy.Spider):
         data = response.json()  # Convert json to dict
         ranking_data = data["data"]
         
-        item = RankingScraperItem()
+        item = TheRankingScraperItem()
         for university in ranking_data:
             item["name"] = university["name"]
             item["rank"] = university["rank"]

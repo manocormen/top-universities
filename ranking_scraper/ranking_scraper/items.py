@@ -1,6 +1,6 @@
 import scrapy
 
 
-class RankingScraperItem(scrapy.Item):
+class TheRankingScraperItem(scrapy.Item):
     name = scrapy.Field()
     rank = scrapy.Field()
