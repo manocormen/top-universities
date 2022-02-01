@@ -7,5 +7,5 @@ class TheSpiderSpider(scrapy.Spider):
     start_urls = ['https://www.timeshighereducation.com/sites/default/files/the_data_rankings/computer_science_rankings_2022_0__059c3663af4eb54c21c21270fa703f58.json']
 
     def parse(self, response):
-        print(response.body)
-        pass
+        data = response.json()  # Convert json to dict
+        yield from data["data"]  # Yield each ranking item
