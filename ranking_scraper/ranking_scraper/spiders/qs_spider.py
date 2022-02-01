@@ -1,5 +1,8 @@
 import scrapy
 
+from ranking_scraper.items import QsRankingScraperItem
+from scrapy.loader import ItemLoader
+
 
 class QsSpiderSpider(scrapy.Spider):
     name = 'qs_spider'
@@ -11,4 +14,7 @@ class QsSpiderSpider(scrapy.Spider):
         ranking_data = data["data"]
 
         for university in ranking_data:
-            yield university
+            l = ItemLoader(item = QsRankingScraperItem(), selector=university)
+            l.add_value("name", university["title"])
+            l.add_value("rank", university["rank_display"])
+            yield l.load_item()
