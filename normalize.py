@@ -33,7 +33,10 @@ main2alts = {
         "PSL University",
         "Université PSL",
     ],
-    "Penn State": ["Penn State (Main campus)",],
+    "Pennsylvania State University": [
+        "Penn State",
+        "Penn State (Main campus)",
+    ],
     "Purdue University": ["Purdue University - West Lafayette",],
     "Swiss Federal Institute of Technology Lausanne (EPFL)": [
         "Swiss Federal Institute of Technology Lausanne",
@@ -78,6 +81,27 @@ main2alts = {
     ],
     "University of Montreal": ["Université de Montréal",],
     "Georgia Institute of Technology (Georgia Tech)": ["Georgia Institute of Technology",],
+    "Humboldt University of Berlin": [
+        "Humboldt-Universität zu Berlin",
+    ],
+    "King's College London": [
+        "King’s College London",
+    ],
+    "Moscow Institute of Physics and Technology (MIPT)": [
+        "Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+    ],
+    "Ohio State University": [
+        "Ohio State University - Columbus",
+    ],
+    "University of Bonn": [
+        "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    ],
+    "University of Paris": [
+        "Université de Paris",
+    ],
+    "Rutgers University": [
+        "Rutgers, The State University of New Jersey - New Brunswick",
+    ],
 }
 
 alt2main = dict()
@@ -148,4 +172,15 @@ main2id = {
     "McGill University": 268,
     "Hong Kong Polytechnic University": 663,
     "KU Leuven": 632,
+    "Sorbonne University": 355,
+    "Fudan University": 322,
+    "Paris-Saclay University": 794,
+    "Kyoto University": 266,
+    "Northwestern University": 62,
+    "University of Warwick": 187,
+    "Brown University": 29,
+    "University of Paris": 1248,
+    "KTH Royal Institute of Technology": 976,
+    "Duke University": 7,
+    "University of Manchester": 227,
 }

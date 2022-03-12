@@ -1,12 +1,14 @@
 import scrapy
 
+from ranking_scraper.settings import ranking_urls
+
 
 class ArwuSpiderSpider(scrapy.Spider):
     name = 'arwu_spider'
 
     def start_requests(self):
         yield scrapy.Request(
-            "https://www.shanghairanking.com/rankings/gras/2021/RS0210",
+            ranking_urls[2],
             meta=dict(
                 playwright = True,
                 playwright_include_page = True,

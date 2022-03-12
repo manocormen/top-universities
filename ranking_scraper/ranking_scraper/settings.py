@@ -93,3 +93,10 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+# My custom settings
+ranking_urls = [
+    "https://www.timeshighereducation.com/sites/default/files/the_data_rankings/physical_sciences_rankings_2022_0__edfe7f6812f7a15ba58f357c8e253567.json",
+    "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3519417.txt?1647010600?v=1647014016919",
+    "https://www.shanghairanking.com/rankings/gras/2021/RS0101",
+]
