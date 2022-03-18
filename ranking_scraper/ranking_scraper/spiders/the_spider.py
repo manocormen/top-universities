@@ -1,13 +1,13 @@
 import scrapy
 
 from ranking_scraper.items import TheRankingScraperItem
-from ranking_scraper.settings import ranking_urls
+from ranking_scraper.settings import ranking
 
 
 class TheSpiderSpider(scrapy.Spider):
     name = 'the_spider'
     allowed_domains = ['timeshighereducation.com']
-    start_urls = [ranking_urls[0]]
+    start_urls = [ranking["urls"][0]]
 
     def parse(self, response):
         data = response.json()  # Convert json to dict

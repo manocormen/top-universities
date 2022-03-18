@@ -1,14 +1,14 @@
 import scrapy
 
 from ranking_scraper.items import QsRankingScraperItem
-from ranking_scraper.settings import ranking_urls
+from ranking_scraper.settings import ranking
 from scrapy.loader import ItemLoader
 
 
 class QsSpiderSpider(scrapy.Spider):
     name = 'qs_spider'
     allowed_domains = ['topuniversities.com']
-    start_urls = [ranking_urls[1]]
+    start_urls = [ranking["urls"][1]]
 
     def parse(self, response):
         data = response.json()  # Convert json to dict

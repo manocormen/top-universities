@@ -1,6 +1,6 @@
 import scrapy
 
-from ranking_scraper.settings import ranking_urls
+from ranking_scraper.settings import ranking
 
 
 class ArwuSpiderSpider(scrapy.Spider):
@@ -8,7 +8,7 @@ class ArwuSpiderSpider(scrapy.Spider):
 
     def start_requests(self):
         yield scrapy.Request(
-            ranking_urls[2],
+            ranking["urls"][2],
             meta=dict(
                 playwright = True,
                 playwright_include_page = True,
