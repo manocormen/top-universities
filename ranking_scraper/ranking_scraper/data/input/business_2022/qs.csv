@@ -1,0 +1,557 @@
+name,rank
+Harvard University,1
+INSEAD,2
+London Business School,3
+Massachusetts Institute of Technology (MIT),4
+Stanford University,5
+University of Pennsylvania,6
+Bocconi University,7
+University of Cambridge,8
+HEC Paris School of Management,9
+University of Oxford,10
+The London School of Economics and Political Science (LSE),11
+National University of Singapore (NUS),12
+"University of California, Berkeley (UCB)",13
+Northwestern University,14
+Copenhagen Business School,15
+Erasmus University Rotterdam,16
+New York University (NYU),17
+Yale University,18
+Columbia University,19
+"Nanyang Technological University, Singapore (NTU)",20
+Universitat Ramon Llull,21
+The Hong Kong University of Science and Technology,22
+University of Chicago,23
+The University of Warwick,24
+University of Navarra,25
+The University of Melbourne,26
+University of Michigan-Ann Arbor,27
+IE University,28
+"University of California, Los Angeles (UCLA)",29
+University of St.Gallen (HSG),30
+Tsinghua University,31
+The University of Manchester,32
+ESSEC Business School,33
+Imperial College London,34
+Peking University,35
+Shanghai Jiao Tong University,=36
+Tecnológico de Monterrey,=36
+Singapore Management University,=38
+University of Toronto,=38
+The University of New South Wales (UNSW Sydney),40
+Seoul National University,41
+WU (Vienna University of Economics and Business),42
+The University of Sydney,43
+The University of Hong Kong,44
+Monash University,=45
+University of British Columbia,=45
+Cornell University,47
+Korea University,48
+Duke University,49
+Fudan University,50
+Pontificia Universidad Católica de Chile (UC),51
+The Chinese University of Hong Kong (CUHK),=52
+The Hong Kong Polytechnic University,=52
+Universität Mannheim,=54
+University of Texas at Austin,=54
+Politecnico di Milano,56
+KAIST - Korea Advanced Institute of Science & Technology,57
+City University of Hong Kong,58
+Yonsei University,59
+McGill University,60
+"City, University of London",=61
+The University of Queensland,=61
+The Australian National University,=63
+Stockholm School of Economics,=63
+Tilburg University,=63
+emlyon business school,=66
+Lancaster University,=66
+Michigan State University,=66
+The University of Tokyo,69
+ESCP Business School - Paris,70
+Aalto University,71
+University of Bath,72
+Pennsylvania State University,72
+IMD,73
+Princeton University,=74
+Western University,=74
+Indian Institute of Management (IIM) - Bangalore,=76
+Sungkyunkwan University (SKKU),=76
+Universiti Malaya (UM),=76
+Carnegie Mellon University,79
+Indian Institute of Management (IIM) - Ahmedabad,=80
+University of Leeds,=80
+Université de Montréal,82
+Texas A&M University,83
+Oxford Brookes University,=84
+Georgia Institute of Technology,86
+KU Leuven,=87
+University of Amsterdam,=87
+Universidad de los Andes,89
+Universidade de São Paulo,=90
+University of Southern California,=90
+National Taiwan University (NTU),=92
+Université PSL,=92
+The University of Auckland,=94
+UCL,=94
+University of Strathclyde,=96
+Zhejiang University,=96
+Universidad de Chile,98
+Aston University,=99
+Technical University of Munich,=99
+Universidad Adolfo Ibáñez,=99
+Boston University,=102
+King's College London,=102
+The University of Edinburgh,104
+BI Norwegian Business School,=105
+Luiss University,=105
+Universidad Nacional Autónoma de México  (UNAM),=105
+Indiana University Bloomington,108
+WHU - Otto Beisheim School of Management,109
+Renmin (People's) University of China,110
+Hitotsubashi University,111
+Arizona State University,=112
+Dartmouth College,=112
+Hanyang University,=114
+University of Illinois at Urbana-Champaign,=114
+York University,=114
+The Ohio State University,=117
+University of Florida,=117
+Waseda University,119
+Lund University,120
+Durham University,=121
+Fundação Getulio Vargas (FGV),=121
+Purdue University,=121
+Universidad Carlos III de Madrid (UC3M),=121
+University of Alberta,=121
+University of Minnesota Twin Cities,=121
+University of Technology Sydney,127
+EDHEC Business School,=128
+Alma Mater Studiorum - University of Bologna,=128
+University College Dublin,=128
+HSE University,131
+Cardiff University,=132
+Indian Institute of Technology Delhi (IITD),=132
+Lomonosov Moscow State University,=132
+University of Nottingham,=132
+University of Birmingham,=132
+University of Groningen,=132
+"University of Maryland, College Park",=132
+Indian Institute of Management (IIM) - Calcutta,139
+University of Washington,139
+Indian Institute of Technology Bombay (IITB),=140
+Keio University,=140
+Loughborough University,=142
+"University of North Carolina, Chapel Hill",=142
+Boston College,144
+Athens University of Economics and Business,=145
+Cranfield University,=145
+Taylor's University,147
+University of Reading,148
+Ludwig-Maximilians-Universität München,149
+The University of Western Australia,150
+Aarhus University,151-200
+American University of Beirut (AUB),151-200
+Chulalongkorn University,151-200
+Deakin University,151-200
+Eindhoven University of Technology,151-200
+Florida International University,151-200
+Florida State University,151-200
+Freie Universitaet Berlin,151-200
+George Washington University,151-200
+Georgetown University,151-200
+Georgia State University,151-200
+Grenoble Ecole de Management,151-200
+Griffith University,151-200
+Indian Institute of Technology Madras (IITM),151-200
+Indian School of Business,151-200
+Instituto Tecnológico Autónomo de México (ITAM),151-200
+Kyoto University,151-200
+Lahore University of Management Sciences (LUMS),151-200
+Maastricht University,151-200
+Macquarie University,151-200
+National Cheng Kung University (NCKU),151-200
+National Chengchi University,151-200
+National Tsing Hua University,151-200
+Newcastle University,151-200
+Queen's University at Kingston,151-200
+Queensland University of Technology (QUT),151-200
+RWTH Aachen University,151-200
+RMIT University,151-200
+Rutgers University–New Brunswick,151-200
+Sun Yat-sen University,151-200
+The University of Georgia,151-200
+"Trinity College Dublin, The University of Dublin",151-200
+Universidad de Buenos Aires (UBA),151-200
+Universidade Nova de Lisboa,151-200
+Universitat Pompeu Fabra (Barcelona),151-200
+University of Vienna,151-200
+Université catholique de Louvain (UCLouvain),151-200
+Université Paris 1 Panthéon-Sorbonne,151-200
+Universiti Putra Malaysia (UPM),151-200
+Universiti Sains Malaysia (USM),151-200
+The University of Exeter,151-200
+University of Glasgow,151-200
+University of Lausanne,151-200
+University of Miami,151-200
+University of Otago,151-200
+University of South Australia,151-200
+University of South Carolina,151-200
+University of Surrey,151-200
+University of Virginia,151-200
+University of Wisconsin-Madison,151-200
+University of Zurich,151-200
+Vrije Universiteit Amsterdam,151-200
+American University of Sharjah,201-250
+Auckland University of Technology (AUT),201-250
+California Institute of Technology (Caltech),201-250
+Coventry University,201-250
+Curtin University,201-250
+Indian Institute of Technology Kharagpur (IIT-KGP),201-250
+King Abdulaziz University (KAU),201-250
+Koç University,201-250
+Kyung Hee University,201-250
+Nanjing University,201-250
+National Chiao Tung University,201-250
+National Sun Yat-sen University,201-250
+National Taipei University of Technology,201-250
+Northeastern University,201-250
+Plekhanov Russian University of Economics,201-250
+Pontificia Universidad Catolica del Peru,201-250
+Pontificia Universidad Javeriana,201-250
+Rice University,201-250
+Saint Petersburg State University,201-250
+Sogang University,201-250
+The American University in Cairo,201-250
+The University of Adelaide,201-250
+The University of Sheffield,201-250
+Universidad Autónoma de Madrid,201-250
+Complutense University of Madrid,201-250
+Universidad Nacional de Colombia,201-250
+Gadjah Mada University,201-250
+Universitat Autònoma de Barcelona,201-250
+Universitat de Valencia,201-250
+Goethe-University Frankfurt am Main,201-250
+University of Cologne,201-250
+Universite libre de Bruxelles,201-250
+Universiti Kebangsaan Malaysia (UKM),201-250
+Universiti Utara Malaysia (UUM),201-250
+University of Bristol,201-250
+University of Calgary,201-250
+"University of California, Davis",201-250
+"University of California, San Diego (UCSD)",201-250
+"The University of Newcastle, Australia (UON)",201-250
+University of Southern Denmark (SDU),201-250
+University of Texas Dallas,201-250
+University of Twente,201-250
+University of Waterloo,201-250
+University of Wollongong,201-250
+Uppsala University,201-250
+Victoria University of Wellington,201-250
+Vilnius Gediminas Technical University,201-250
+Virginia Polytechnic Institute and State University,201-250
+Vlerick Business School,201-250
+Xi’an Jiaotong University,201-250
+Aalborg University,251-300
+Bandung Institute of Technology (ITB),251-300
+Bilkent University,251-300
+Cairo University,251-300
+Case Western Reserve University,251-300
+Concordia University,251-300
+Corvinus University of Budapest,251-300
+EHL - Ecole hôtelière de Lausanne,251-300
+Heriot-Watt University,251-300
+Hong Kong Baptist University,251-300
+Humboldt-Universität zu Berlin,251-300
+Indian Institute of Management (IIM) - Lucknow,251-300
+Indian Institute of Technology Roorkee (IITR),251-300
+Instituto Politécnico Nacional (IPN),251-300
+Johns Hopkins University,251-300
+King Fahd University of Petroleum & Minerals,251-300
+Kobe University,251-300
+Linköping University,251-300
+Massey University,251-300
+McMaster University,251-300
+Middle East Technical University,251-300
+National Taiwan University of Science and Technology (Taiwan Tech),251-300
+National University of Sciences And Technology (NUST) Islamabad,251-300
+Osaka University,251-300
+Simon Fraser University,251-300
+Temple University,251-300
+Thammasat University,251-300
+UCSI University,251-300
+United Arab Emirates University,251-300
+Universidad EAFIT,251-300
+Universidad Panamericana (UP),251-300
+Università Cattolica del Sacro Cuore,251-300
+"University of Rome ""Tor Vergata""",251-300
+Universitat de Barcelona,251-300
+The University of Alabama,251-300
+The University of Arizona,251-300
+University of Canterbury | Te Whare Wānanga o Waitaha,251-300
+University of Cape Town,251-300
+University of Delhi,251-300
+Ghent University,251-300
+University of Illinois at Chicago (UIC),251-300
+University of Jordan,251-300
+University of Lisbon,251-300
+University of Liverpool,251-300
+University of Notre Dame,251-300
+University of Science and Technology of China,251-300
+University of St Andrews,251-300
+University of Sussex,251-300
+University of Waikato,251-300
+"Asian Institute of Technology, Thailand",301-350
+Beijing Normal University,301-350
+Brown University,301-350
+De La Salle University,301-350
+Dublin City University,301-350
+Emory University,301-350
+ESIC Business&Marketing School,301-350
+Financial University under the Government of the Russian Federation,301-350
+Harbin Institute of Technology,301-350
+Huazhong University of Science and Technology,301-350
+Indian Institute of Technology Kanpur (IITK),301-350
+ISCTE-IUL,301-350
+King Saud University,301-350
+"Kingston University, London",301-350
+Maastricht School of Management (MSM),301-350
+MGIMO University,301-350
+North Carolina State University,301-350
+Norwegian University of Science And Technology,301-350
+Nottingham Trent University,301-350
+Qatar University,301-350
+Queen Mary University of London,301-350
+Sabanci University,301-350
+Shanghai University,301-350
+Stellenbosch University,301-350
+Stockholm University,301-350
+Swinburne University of Technology,301-350
+Syracuse University,301-350
+Technical University of Denmark,301-350
+Tongji University,301-350
+Universidad de Santiago de Chile (USACH),301-350
+Ca' Foscari University of Venice,301-350
+Universitat Politècnica de Catalunya · BarcelonaTech (UPC),301-350
+Universiti Teknologi MARA - UiTM,301-350
+University College Cork,301-350
+University of Deusto,301-350
+University of Geneva,301-350
+University of Gothenburg,301-350
+University of Limerick,301-350
+University of Massachusetts Boston,301-350
+University of Ottawa,301-350
+University of Pittsburgh,301-350
+University of Porto,301-350
+University of South Florida,301-350
+University of Southampton,301-350
+"The University of Tennessee, Knoxville",301-350
+Warsaw School of Economics (SGH),301-350
+Washington State University,301-350
+Washington University in St. Louis,301-350
+Westfälische Wilhelms-Universität Münster,301-350
+Aristotle University of Thessaloniki,351-400
+Beijing Institute of Technology,351-400
+Brunel University London,351-400
+EBS Business School,351-400
+Ewha Womans University,351-400
+George Mason University,351-400
+HUFS - Hankuk (Korea) University of Foreign Studies,351-400
+Indian Institute of Science,351-400
+Istanbul Technical University,351-400
+La Trobe University,351-400
+Lappeenranta-Lahti University of Technology LUT,351-400
+Université Laval,351-400
+Lebanese American University,351-400
+Mahidol University,351-400
+Manchester Metropolitan University (MMU),351-400
+Middlesex University,351-400
+National Central University,351-400
+National University of Ireland Galway,351-400
+NEOMA Business School France,351-400
+North South University,351-400
+Northumbria University at Newcastle,351-400
+Queen's University Belfast,351-400
+Royal Holloway University of London,351-400
+Sant'Anna - Scuola Universitaria Superiore Pisa,351-400
+Sorbonne University,351-400
+Technion - Israel Institute of Technology,351-400
+Universidad Anáhuac México,351-400
+University of Granada,351-400
+Universidad de La Sabana,351-400
+Universidad de Sevilla,351-400
+Universidad del Pacífico,351-400
+Universidad Externado de Colombia,351-400
+Universitat Politècnica de València,351-400
+Universidad Pontificia Comillas,351-400
+Universidad Torcuato Di Tella,351-400
+Université Toulouse 1 Capitole,351-400
+"University of California, Irvine",351-400
+University of Dhaka,351-400
+"Essex, University of",351-400
+University of Hawaiʻi at Mānoa,351-400
+University of Houston,351-400
+University of Leicester,351-400
+University of Ljubljana,351-400
+"University of Missouri, Columbia",351-400
+University of Nevada - Las Vegas,351-400
+University of the Philippines,351-400
+University of Turku,351-400
+University of York,351-400
+Vanderbilt University,351-400
+Wageningen University & Research,351-400
+Xiamen University,351-400
+Airlangga University,401-450
+Al-Farabi Kazakh National University,401-450
+Babes-Bolyai University,401-450
+Brigham Young University,401-450
+Carleton University,401-450
+Central European University,401-450
+Chiang Mai University,401-450
+Chung-Ang University (CAU),401-450
+Clemson University,401-450
+Drexel University,401-450
+The Hebrew University of Jerusalem,401-450
+Indian Institute of Management (IIM) - Kozhikode,401-450
+Institute of Business Administration (IBA),401-450
+Iowa State University,401-450
+Loyola University Chicago,401-450
+Nagoya University,401-450
+National and Kapodistrian University of Athens,401-450
+Oklahoma State University,401-450
+Ryerson University,401-450
+Sunway University,401-450
+Tampere University,401-450
+Technische Universität Wien,401-450
+Tel Aviv University,401-450
+Texas Christian University,401-450
+Russian Presidential Academy of National Economy and Public Administration,401-450
+University of Salamanca,401-450
+Universidad del Desarrollo (UDD),401-450
+Universidad Diego Portales (UDP),401-450
+UNESP,401-450
+Universidade Federal do Rio Grande Do Sul,401-450
+University of Naples - Federico II,401-450
+University of Pisa,401-450
+Universität Innsbruck,401-450
+Université du Québec,401-450
+Universiti Tunku Abdul Rahman (UTAR),401-450
+University of Aberdeen,401-450
+University of Bradford,401-450
+University of Colorado Boulder,401-450
+University of Iowa,401-450
+University of Kent,401-450
+University of Oregon,401-450
+University of Patras,401-450
+University of Rochester,401-450
+University of Stirling,401-450
+University of the West of England,401-450
+University of Warsaw,401-450
+Ural Federal University - UrFU,401-450
+Warsaw University of Technology,401-450
+Western Sydney University,401-450
+Wilfrid Laurier University,401-450
+Ain Shams University,451-500
+American University of the Middle East,451-500
+Ateneo de Manila University,451-500
+"Birla Institute of Technology and Science, Pilani",451-500
+City University of New York,451-500
+COMSATS University Islamabad,451-500
+Baruch College,451-500
+INCAE Business School,451-500
+Istanbul University,451-500
+Jilin University,451-500
+Kaunas University of Technology,451-500
+Kazan (Volga region) Federal University,451-500
+Kozminski University,451-500
+"Lingnan University, Hong Kong",451-500
+Management and Science University,451-500
+Nankai University,451-500
+National Taiwan Normal University,451-500
+NHH Norwegian School of Economics,451-500
+Peter the Great St. Petersburg Polytechnic University,451-500
+Quaid-i-Azam University,451-500
+Radboud University,451-500
+Riga Technical University,451-500
+RUDN University,451-500
+SOAS University of London,451-500
+Sultan Qaboos University,451-500
+Symbiosis International (Deemed University),451-500
+Technische Universität Dresden,451-500
+Technische Universität Hamburg,451-500
+Ulster University,451-500
+Universidad de Antioquia,451-500
+Universidad del Norte,451-500
+Universidad del Rosario,451-500
+Universidad del Valle,451-500
+Universidade Federal de Santa Catarina,451-500
+Universiti Teknologi PETRONAS (UTP),451-500
+University at Buffalo SUNY,451-500
+University of Antwerp,451-500
+University of Basel,451-500
+University of Bern,451-500
+University of Cincinnati,451-500
+University of Coimbra,451-500
+University of Connecticut,451-500
+University of Huddersfield,451-500
+University of Hull,451-500
+University of Kentucky,451-500
+University of Oklahoma,451-500
+University of Southern Queensland,451-500
+University of the Punjab,451-500
+University of Witwatersrand,451-500
+University of Utah,451-500
+University of Victoria (UVic),451-500
+Victoria University,451-500
+Vilnius University,451-500
+American University,501-550
+Beijing Jiaotong University,501-550
+Binghamton University SUNY,501-550
+Bournemouth University,501-550
+The Bucharest University of Economic Studies,501-550
+Colorado State University,501-550
+Dalhousie University,501-550
+Diponegoro University,501-550
+Dongguk University,501-550
+Florida Atlantic University - Boca Raton,501-550
+Fordham University,501-550
+Johannes Kepler University Linz,501-550
+Karlstad University,501-550
+Kasetsart University,501-550
+Kyushu University,501-550
+Leeds Beckett University,501-550
+Lulea University,501-550
+Multimedia University (MMU),501-550
+Ohio University,501-550
+Ritsumeikan University,501-550
+Shandong University,501-550
+Sharif University of Technology,501-550
+Swansea University,501-550
+Tallinn University of Technology (TalTech),501-550
+Technical University of Darmstadt,501-550
+Technological University Dublin,501-550
+Umea University,501-550
+Universidad de las Américas Puebla (UDLAP),501-550
+Universidad de Monterrey (UDEM),501-550
+Universidad de Zaragoza,501-550
+Universidad ESAN,501-550
+Universidad ICESI,501-550
+Universidade Federal de Minas Gerais,501-550
+University of Turin,501-550
+Université Jean Moulin Lyon 3,501-550
+Università degli studi di Bergamo,501-550
+University of Arkansas Fayetteville,501-550
+University of Bergen,501-550
+Universitas Brawijaya,501-550
+University of Guelph,501-550
+University of Kansas,501-550
+University of Macau,501-550
+University of Oulu,501-550
+University of Plymouth,501-550
+University of Tartu,501-550
+University of Tehran,501-550
+The University of Texas at Arlington,501-550
+University of Westminster,501-550
+"Vietnam National University, Hanoi",501-550
+Vrije Universiteit Brussel (VUB),501-550
+Zayed University,501-550

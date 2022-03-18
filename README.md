@@ -26,3 +26,17 @@ Combine leading university rankings into one using Python and JupyterLab.
 ## Output
 
 ![Screenshot of the script's output](top_10_math_2022.png)
+
+## Usage
+
+**First**, add the ranking info (e.g. URLs) to `ranking_scraper/ranking_scraper/settings.py`.
+
+**Second**, to scrape the rankings, run the following commands:
+
+```
+$ cd top-universities/ranking_scraper
+$ scrapy crawl the_spider -o ranking_scraper/data/input/<subject>_<year>/the.csv
+$ scrapy crawl qs_spider -o ranking_scraper/data/input/<subject>_<year>/qs.csv
+$ scrapy crawl arwu_spider -o ranking_scraper/data/input/<subject>_<year>/arwu.csv
+```
+**Third**, run the Jupyter Notebook.

@@ -105,5 +105,15 @@ ranking_math_2022 = {
     ],
 }
 
+ranking_business_2022 = {
+    "subject": "business",
+    "year": 2022,
+    "urls": [
+        "https://www.timeshighereducation.com/sites/default/files/the_data_rankings/business_economics_rankings_2022_0__e09545cc15986a7b85fe1d9a21b2e32e.json",
+        "https://www.topuniversities.com/sites/default/files/qs-rankings-data/en/3515511.txt?1647612376?v=1647617120622",
+        "https://www.shanghairanking.com/rankings/gras/2021/RS0509",
+    ],
+}
+
 # Current ranking <--- Add new ranking data above then change this
-ranking = ranking_math_2022
+ranking = ranking_business_2022

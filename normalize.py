@@ -36,6 +36,7 @@ main2alts = {
     "Pennsylvania State University": [
         "Penn State",
         "Penn State (Main campus)",
+        "Pennsylvania State University - University Park",
     ],
     "Purdue University": ["Purdue University - West Lafayette",],
     "Swiss Federal Institute of Technology Lausanne (EPFL)": [
@@ -92,6 +93,7 @@ main2alts = {
     ],
     "Ohio State University": [
         "Ohio State University - Columbus",
+        "Ohio State University (Main campus)",
     ],
     "University of Bonn": [
         "Rheinische Friedrich-Wilhelms-Universität Bonn",
@@ -101,6 +103,34 @@ main2alts = {
     ],
     "Rutgers University": [
         "Rutgers, The State University of New Jersey - New Brunswick",
+    ],
+    "Arizona State University": [
+        "Arizona State University (Tempe)",
+    ],
+    "Indiana University": [
+        "Indiana University Bloomington",
+    ],
+    "London School of Economics and Political Science (LSE)": [
+        "London School of Economics and Political Science",
+    ],
+    "Northwestern University": [
+        "Northeastern University (Boston)",
+    ],
+    "University of Minnesota": [
+        "University of Minnesota, Twin Cities",
+    ],
+    "University of St. Gallen": [
+        "University of St Gallen",
+        "University of St.Gallen (HSG)",
+    ],
+    "University of Mannheim": [
+        "Universität Mannheim",
+    ],
+    "Washington University in St. Louis": [
+        "Washington University in St Louis",
+    ],
+    "Yonsei University": [
+        "Yonsei University (Seoul campus)",
     ],
 }
 
@@ -183,4 +213,21 @@ main2id = {
     "KTH Royal Institute of Technology": 976,
     "Duke University": 7,
     "University of Manchester": 227,
+    "Erasmus University Rotterdam": 849,
+    "INSEAD": 1468,
+    "Copenhagen Business School": 237,
+    "Michigan State University": 109,
+    "Bocconi University": 229,
+    "Aalto University": 2108,
+    "University of Minnesota": 50,
+    "Arizona State University": 164,
+    "Monash University": 350,
+    "London Business School": 717,
+    "University of Leeds": 179,
+    "Pennsylvania State University": 55,
+    "Indiana University": 100,
+    "Boston University": 348,
+    "Texas A&M University": 1555,
+    "University of Mannheim": 2239,
+    "University of Queensland": 224,
 }
