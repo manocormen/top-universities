@@ -46,4 +46,5 @@ $ scrapy crawl arwu_spider -o ranking_scraper/data/input/<subject>_<year>/arwu.c
 ```
 $ cd top-universities/scraper
 $ scrapy crawl qs -O data/qs.jsonl
+$ scrapy crawl the -O data/the.jsonl
 ```
