@@ -40,3 +40,10 @@ $ scrapy crawl qs_spider -o ranking_scraper/data/input/<subject>_<year>/qs.csv
 $ scrapy crawl arwu_spider -o ranking_scraper/data/input/<subject>_<year>/arwu.csv
 ```
 **Third**, run the Jupyter Notebook.
+
+## 2023 Usage
+
+```
+$ cd top-universities/scraper
+$ scrapy crawl qs -O data/qs.jsonl
+```
