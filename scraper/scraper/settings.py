@@ -98,3 +98,22 @@ DOWNLOAD_HANDLERS = {
     "http": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
     "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
 }
+
+# Data sources
+qs_urls = dict(
+    cs = {
+        2023: "https://www.topuniversities.com/rankings/endpoint?nid=3846233&page=0&items_per_page=700&tab=&region=&countries=&cities=&search=&star=&sort_by=&order_by=",
+    },
+)
+
+the_urls = dict(
+    cs = {
+        2023: "https://www.timeshighereducation.com/sites/default/files/the_data_rankings/computer_science_rankings_2023_0__0f480cc165726b46cd42a2f6fa025532.json",
+    },
+)
+
+arwu_urls = dict(
+    cs = {
+        2022: "https://www.shanghairanking.com/rankings/gras/2022/RS0210",
+    },
+)

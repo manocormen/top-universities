@@ -1,6 +1,7 @@
 import scrapy
 
 from scraper.items import UniItemLoader
+from scraper.settings import arwu_urls
 
 
 class ArwuSpider(scrapy.Spider):
@@ -17,7 +18,7 @@ class ArwuSpider(scrapy.Spider):
 
     def start_requests(self):
         yield scrapy.Request(
-            url="https://www.shanghairanking.com/rankings/gras/2022/RS0210",
+            url=arwu_urls["cs"][2022],
             meta={
                 "playwright": True,
                 "playwright_include_page": True,

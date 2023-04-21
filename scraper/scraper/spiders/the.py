@@ -1,12 +1,13 @@
 import scrapy
 
 from scraper.items import UniItemLoader
+from scraper.settings import the_urls
 
 
 class TheSpider(scrapy.Spider):
     name = "the"
     allowed_domains = ["www.timeshighereducation.com"]
-    start_urls = ["https://www.timeshighereducation.com/sites/default/files/the_data_rankings/computer_science_rankings_2023_0__0f480cc165726b46cd42a2f6fa025532.json"]
+    start_urls = [the_urls["cs"][2023]]
 
     def parse(self, response):
         ranking = response.json()["data"]
