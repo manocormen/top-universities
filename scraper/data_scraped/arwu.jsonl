@@ -1,0 +1,500 @@
+{"name": "Massachusetts Institute of Technology (MIT)", "rank": 1}
+{"name": "Stanford University", "rank": 2}
+{"name": "University of California, Berkeley", "rank": 3}
+{"name": "Carnegie Mellon University", "rank": 4}
+{"name": "Tsinghua University", "rank": 5}
+{"name": "Harvard University", "rank": 6}
+{"name": "ETH Zurich", "rank": 7}
+{"name": "Nanyang Technological University", "rank": 8}
+{"name": "University of Oxford", "rank": 9}
+{"name": "Princeton University", "rank": 10}
+{"name": "Columbia University", "rank": 11}
+{"name": "University of Electronic Science and Technology of China", "rank": 12}
+{"name": "National University of Singapore", "rank": 13}
+{"name": "University of California, Los Angeles", "rank": 14}
+{"name": "University of Toronto", "rank": 15}
+{"name": "Shanghai Jiao Tong University", "rank": 16}
+{"name": "University of Technology Sydney", "rank": 17}
+{"name": "Zhejiang University", "rank": 18}
+{"name": "Peking University", "rank": 19}
+{"name": "The Chinese University of Hong Kong", "rank": 20}
+{"name": "Huazhong University of Science and Technology", "rank": 21}
+{"name": "Cornell University", "rank": 22}
+{"name": "Beihang University", "rank": 23}
+{"name": "Harbin Institute of Technology", "rank": 24}
+{"name": "University of Southern California", "rank": 25}
+{"name": "Georgia Institute of Technology", "rank": 26}
+{"name": "Xidian University", "rank": 26}
+{"name": "New York University", "rank": 28}
+{"name": "University of Sydney", "rank": 29}
+{"name": "University of Oslo", "rank": 30}
+{"name": "The University of Edinburgh", "rank": 31}
+{"name": "University of Science and Technology of China", "rank": 32}
+{"name": "University of Montreal", "rank": 33}
+{"name": "City University of Hong Kong", "rank": 34}
+{"name": "The University of Texas at Austin", "rank": 35}
+{"name": "University College London", "rank": 36}
+{"name": "University of Washington", "rank": 37}
+{"name": "Imperial College London", "rank": 38}
+{"name": "Sun Yat-sen University", "rank": 39}
+{"name": "Southeast University", "rank": 40}
+{"name": "Tianjin University", "rank": 41}
+{"name": "Northwestern Polytechnical University", "rank": 42}
+{"name": "University of North Carolina at Chapel Hill", "rank": 43}
+{"name": "The Hong Kong Polytechnic University", "rank": 44}
+{"name": "Beijing University of Posts and Telecommunications", "rank": 45}
+{"name": "Wuhan University", "rank": 46}
+{"name": "The Hong Kong University of Science and Technology", "rank": 47}
+{"name": "Dalian University of Technology", "rank": 48}
+{"name": "University of Michigan-Ann Arbor", "rank": 49}
+{"name": "The University of Adelaide", "rank": 50}
+{"name": "Aalto University", "rank": 51}
+{"name": "Beijing Institute of Technology", "rank": 51}
+{"name": "Central South University", "rank": 51}
+{"name": "Johns Hopkins University", "rank": 51}
+{"name": "King Abdulaziz University", "rank": 51}
+{"name": "Nanjing University", "rank": 51}
+{"name": "Nanjing University of Science and Technology", "rank": 51}
+{"name": "National University of Defense Technology", "rank": 51}
+{"name": "Northeastern University (Shenyang)", "rank": 51}
+{"name": "Paris-Saclay University", "rank": 51}
+{"name": "Shenzhen University", "rank": 51}
+{"name": "South China University of Technology", "rank": 51}
+{"name": "Swiss Federal Institute of Technology Lausanne", "rank": 51}
+{"name": "Technical University of Munich", "rank": 51}
+{"name": "The University of New South Wales", "rank": 51}
+{"name": "University of Alberta", "rank": 51}
+{"name": "University of British Columbia", "rank": 51}
+{"name": "University of California, San Diego", "rank": 51}
+{"name": "University of Cambridge", "rank": 51}
+{"name": "University of Copenhagen", "rank": 51}
+{"name": "University of Illinois at Urbana-Champaign", "rank": 51}
+{"name": "University of Maryland, College Park", "rank": 51}
+{"name": "University of Waterloo", "rank": 51}
+{"name": "Weizmann Institute of Science", "rank": 51}
+{"name": "Xi'an Jiaotong University", "rank": 51}
+{"name": "Arizona State University", "rank": 76}
+{"name": "Deakin University", "rank": 76}
+{"name": "Griffith University", "rank": 76}
+{"name": "Guangdong University of Technology", "rank": 76}
+{"name": "King Saud University", "rank": 76}
+{"name": "Korea Advanced Institute of Science and Technology", "rank": 76}
+{"name": "Michigan State University", "rank": 76}
+{"name": "Monash University", "rank": 76}
+{"name": "Nanjing University of Information Science & Technology", "rank": 76}
+{"name": "Purdue University - West Lafayette", "rank": 76}
+{"name": "Rutgers, The State University of New Jersey - New Brunswick", "rank": 76}
+{"name": "Sichuan University", "rank": 76}
+{"name": "Singapore University of Technology & Design", "rank": 76}
+{"name": "Swinburne University of Technology", "rank": 76}
+{"name": "Technical University of Denmark", "rank": 76}
+{"name": "The Australian National University", "rank": 76}
+{"name": "The University of Hong Kong", "rank": 76}
+{"name": "The University of Melbourne", "rank": 76}
+{"name": "Tongji University", "rank": 76}
+{"name": "Université Grenoble Alpes", "rank": 76}
+{"name": "University of Macau", "rank": 76}
+{"name": "University of Pennsylvania", "rank": 76}
+{"name": "University of Surrey", "rank": 76}
+{"name": "Virginia Polytechnic Institute and State University", "rank": 76}
+{"name": "Xiamen University", "rank": 76}
+{"name": "Beijing Jiaotong University", "rank": 101}
+{"name": "Brown University", "rank": 101}
+{"name": "Brunel University", "rank": 101}
+{"name": "China University of Geosciences (Wuhan)", "rank": 101}
+{"name": "Chongqing University", "rank": 101}
+{"name": "Delft University of Technology", "rank": 101}
+{"name": "Duke University", "rank": 101}
+{"name": "Fudan University", "rank": 101}
+{"name": "Hefei University of Technology", "rank": 101}
+{"name": "Hunan University", "rank": 101}
+{"name": "King Abdullah University of Science and Technology", "rank": 101}
+{"name": "King's College London", "rank": 101}
+{"name": "KTH Royal Institute of Technology", "rank": 101}
+{"name": "KU Leuven", "rank": 101}
+{"name": "Lancaster University", "rank": 101}
+{"name": "McGill University", "rank": 101}
+{"name": "Nanjing University of Aeronautics and Astronautics", "rank": 101}
+{"name": "Nanjing University of Posts and Telecommunications", "rank": 101}
+{"name": "New Jersey Institute of Technology", "rank": 101}
+{"name": "Newcastle University", "rank": 101}
+{"name": "Northeastern University (Boston)", "rank": 101}
+{"name": "Northumbria University", "rank": 101}
+{"name": "Polytechnic University of Milan", "rank": 101}
+{"name": "PSL University", "rank": 101}
+{"name": "Queen Mary University of London", "rank": 101}
+{"name": "RMIT University", "rank": 101}
+{"name": "Seoul National University", "rank": 101}
+{"name": "Shandong University", "rank": 101}
+{"name": "Simon Fraser University", "rank": 101}
+{"name": "Singapore Management University", "rank": 101}
+{"name": "Temple University", "rank": 101}
+{"name": "Texas A and M University at Qatar", "rank": 101}
+{"name": "Texas A&M University", "rank": 101}
+{"name": "The Ohio State University - Columbus", "rank": 101}
+{"name": "The University of Queensland", "rank": 101}
+{"name": "The University of Texas at San Antonio", "rank": 101}
+{"name": "The University of Tokyo", "rank": 101}
+{"name": "University at Buffalo, the State University of New York", "rank": 101}
+{"name": "University of Bristol", "rank": 101}
+{"name": "University of California, Davis", "rank": 101}
+{"name": "University of California, Irvine", "rank": 101}
+{"name": "University of California, Merced", "rank": 101}
+{"name": "University of Florida", "rank": 101}
+{"name": "University of Freiburg", "rank": 101}
+{"name": "University of Granada", "rank": 101}
+{"name": "University of Iowa", "rank": 101}
+{"name": "University of Minnesota, Twin Cities", "rank": 101}
+{"name": "University of Oulu", "rank": 101}
+{"name": "University of Warwick", "rank": 101}
+{"name": "University of Wisconsin - Madison", "rank": 101}
+{"name": "Aalborg University", "rank": 151}
+{"name": "Carleton University", "rank": 151}
+{"name": "Changsha University of Science and Technology", "rank": 151}
+{"name": "Dalian Maritime University", "rank": 151}
+{"name": "De Montfort University", "rank": 151}
+{"name": "Duy Tan University", "rank": 151}
+{"name": "Eindhoven University of Technology", "rank": 151}
+{"name": "Guangzhou University", "rank": 151}
+{"name": "Hamad Bin Khalifa University-Qatar", "rank": 151}
+{"name": "Hangzhou Dianzi University", "rank": 151}
+{"name": "Hong Kong Baptist University", "rank": 151}
+{"name": "Institut Polytechnique de Paris", "rank": 151}
+{"name": "Korea University", "rank": 151}
+{"name": "Lulea University of Technology", "rank": 151}
+{"name": "Macau University of Science and Technology", "rank": 151}
+{"name": "Macquarie University", "rank": 151}
+{"name": "Nankai University", "rank": 151}
+{"name": "Northwestern University", "rank": 151}
+{"name": "Qatar University", "rank": 151}
+{"name": "Qingdao University", "rank": 151}
+{"name": "Radboud University Nijmegen", "rank": 151}
+{"name": "Sejong University", "rank": 151}
+{"name": "Shanghai University", "rank": 151}
+{"name": "Sorbonne University", "rank": 151}
+{"name": "Southern University of Science and Technology", "rank": 151}
+{"name": "Southwest University", "rank": 151}
+{"name": "St. Francis Xavier University", "rank": 151}
+{"name": "Stony Brook University", "rank": 151}
+{"name": "Technion-Israel Institute of Technology", "rank": 151}
+{"name": "Tel Aviv University", "rank": 151}
+{"name": "Thapar Institute of Engineering and Technology", "rank": 151}
+{"name": "Pennsylvania State University - University Park", "rank": 151}
+{"name": "The University of Manchester", "rank": 151}
+{"name": "University at Albany (State University of New York)", "rank": 151}
+{"name": "University of Amsterdam", "rank": 151}
+{"name": "University of Birmingham", "rank": 151}
+{"name": "University of Houston", "rank": 151}
+{"name": "University of Idaho", "rank": 151}
+{"name": "University of Illinois at Chicago", "rank": 151}
+{"name": "University of Pittsburgh", "rank": 151}
+{"name": "University of Science and Technology Beijing", "rank": 151}
+{"name": "University of Southampton", "rank": 151}
+{"name": "University of Tehran", "rank": 151}
+{"name": "University of Wollongong", "rank": 151}
+{"name": "University of Zurich", "rank": 151}
+{"name": "Vanderbilt University", "rank": 151}
+{"name": "Victoria University", "rank": 151}
+{"name": "Vienna University of Technology", "rank": 151}
+{"name": "Washington University in St. Louis", "rank": 151}
+{"name": "York University", "rank": 151}
+{"name": "Aarhus University", "rank": 201}
+{"name": "Anhui University", "rank": 201}
+{"name": "Anhui University of Technology", "rank": 201}
+{"name": "Beijing University of Technology", "rank": 201}
+{"name": "Ben-Gurion University of the Negev", "rank": 201}
+{"name": "Bohai University", "rank": 201}
+{"name": "Boston University", "rank": 201}
+{"name": "Cardiff University", "rank": 201}
+{"name": "Case Western Reserve University", "rank": 201}
+{"name": "Chalmers University of Technology", "rank": 201}
+{"name": "Chongqing University of Posts and Telecommunications", "rank": 201}
+{"name": "COMSATS University Islamabad", "rank": 201}
+{"name": "Concordia University", "rank": 201}
+{"name": "East China Normal University", "rank": 201}
+{"name": "East China University of Science and Technology", "rank": 201}
+{"name": "Ecole de Technologie Superieure - Canada", "rank": 201}
+{"name": "Florida Atlantic University", "rank": 201}
+{"name": "Fordham University", "rank": 201}
+{"name": "Fuzhou University", "rank": 201}
+{"name": "Georgia State University", "rank": 201}
+{"name": "Ghent University", "rank": 201}
+{"name": "Heidelberg University", "rank": 201}
+{"name": "Hohai University", "rank": 201}
+{"name": "Huaqiao University", "rank": 201}
+{"name": "Indiana University Bloomington", "rank": 201}
+{"name": "Karlsruhe Institute of Technology (KIT)", "rank": 201}
+{"name": "Linkoping University", "rank": 201}
+{"name": "McMaster University", "rank": 201}
+{"name": "National Taiwan University of Science and Technology", "rank": 201}
+{"name": "North Carolina State University - Raleigh", "rank": 201}
+{"name": "Norwegian University of Science and Technology - NTNU", "rank": 201}
+{"name": "Polytechnic University of Catalonia", "rank": 201}
+{"name": "Quaid-i-Azam University", "rank": 201}
+{"name": "Queen's University Belfast", "rank": 201}
+{"name": "Queensland University of Technology", "rank": 201}
+{"name": "Qufu Normal University", "rank": 201}
+{"name": "Rensselaer Polytechnic Institute", "rank": 201}
+{"name": "RWTH Aachen University", "rank": 201}
+{"name": "Saarland University", "rank": 201}
+{"name": "Sapienza University of Rome", "rank": 201}
+{"name": "Shandong Normal University", "rank": 201}
+{"name": "Shandong University of Science and Technology", "rank": 201}
+{"name": "Southwest Jiaotong University", "rank": 201}
+{"name": "Stevens Institute of Technology", "rank": 201}
+{"name": "Swansea University", "rank": 201}
+{"name": "Tampere University", "rank": 201}
+{"name": "Technical University Darmstadt", "rank": 201}
+{"name": "Technical University of Berlin", "rank": 201}
+{"name": "The Chinese University of Hong Kong, Shenzhen", "rank": 201}
+{"name": "The University of Auckland", "rank": 201}
+{"name": "The University of Glasgow", "rank": 201}
+{"name": "The University of Sheffield", "rank": 201}
+{"name": "The University of Texas at Arlington", "rank": 201}
+{"name": "The University of Texas at Dallas", "rank": 201}
+{"name": "Ton Duc Thang University", "rank": 201}
+{"name": "Universiti Teknologi Malaysia", "rank": 201}
+{"name": "University of Calabria", "rank": 201}
+{"name": "University of California, Santa Barbara", "rank": 201}
+{"name": "University of Central Florida", "rank": 201}
+{"name": "University of Chicago", "rank": 201}
+{"name": "University of Colorado at Boulder", "rank": 201}
+{"name": "University of Essex", "rank": 201}
+{"name": "Exeter University", "rank": 201}
+{"name": "University of Fortaleza (UNIFOR)", "rank": 201}
+{"name": "University of Helsinki", "rank": 201}
+{"name": "University of Jordan", "rank": 201}
+{"name": "University of Kentucky", "rank": 201}
+{"name": "University of Leicester", "rank": 201}
+{"name": "University of Lincoln", "rank": 201}
+{"name": "University of Lisbon", "rank": 201}
+{"name": "University of Liverpool", "rank": 201}
+{"name": "University of Luxembourg", "rank": 201}
+{"name": "University of Malaya", "rank": 201}
+{"name": "University of Massachusetts Amherst", "rank": 201}
+{"name": "University of Muenster", "rank": 201}
+{"name": "University of Munich", "rank": 201}
+{"name": "University of Naples Federico II", "rank": 201}
+{"name": "University of North Carolina at Charlotte", "rank": 201}
+{"name": "University of Nottingham", "rank": 201}
+{"name": "University of Padua", "rank": 201}
+{"name": "University of Rhode Island", "rank": 201}
+{"name": "University of South Australia", "rank": 201}
+{"name": "University of South Carolina - Columbia", "rank": 201}
+{"name": "University of Trento", "rank": 201}
+{"name": "University of Twente", "rank": 201}
+{"name": "University of Utah", "rank": 201}
+{"name": "University of Virginia", "rank": 201}
+{"name": "Utrecht University", "rank": 201}
+{"name": "Vellore Institute of Technology", "rank": 201}
+{"name": "Victoria University of Wellington", "rank": 201}
+{"name": "Wenzhou University", "rank": 201}
+{"name": "Western Sydney University", "rank": 201}
+{"name": "Western University", "rank": 201}
+{"name": "Xi'an Jiaotong-Liverpool University", "rank": 201}
+{"name": "Yale University", "rank": 201}
+{"name": "Yangzhou University", "rank": 201}
+{"name": "Yeungnam University", "rank": 201}
+{"name": "Yonsei University", "rank": 201}
+{"name": "Zagazig University", "rank": 201}
+{"name": "Zhejiang University of Technology", "rank": 201}
+{"name": "Auburn University", "rank": 301}
+{"name": "Binghamton University", "rank": 301}
+{"name": "California Institute of Technology", "rank": 301}
+{"name": "China University of Mining and Technology - Xuzhou", "rank": 301}
+{"name": "City, University of London", "rank": 301}
+{"name": "Curtin University", "rank": 301}
+{"name": "Czech Technical University in Prague", "rank": 301}
+{"name": "Dongguan University of Technology", "rank": 301}
+{"name": "Florida International University", "rank": 301}
+{"name": "Graz University of Technology", "rank": 301}
+{"name": "Guangdong University of Petrochemical Technology", "rank": 301}
+{"name": "Guilin University of Electronic Technology", "rank": 301}
+{"name": "Harbin Engineering University", "rank": 301}
+{"name": "Heriot-Watt University", "rank": 301}
+{"name": "Hunan University of Science and Technology", "rank": 301}
+{"name": "Illinois Institute of Technology", "rank": 301}
+{"name": "Iowa State University", "rank": 301}
+{"name": "Jiangsu Normal University", "rank": 301}
+{"name": "Jilin University", "rank": 301}
+{"name": "Jinan University", "rank": 301}
+{"name": "Khalifa University", "rank": 301}
+{"name": "King Fahd University of Petroleum & Minerals", "rank": 301}
+{"name": "Kyoto University", "rank": 301}
+{"name": "Kyung Hee University", "rank": 301}
+{"name": "La Trobe University", "rank": 301}
+{"name": "Leiden University", "rank": 301}
+{"name": "Liaoning University of Technology", "rank": 301}
+{"name": "Liverpool John Moores University", "rank": 301}
+{"name": "Loughborough University", "rank": 301}
+{"name": "Manchester Metropolitan University", "rank": 301}
+{"name": "Mansoura University", "rank": 301}
+{"name": "Memorial University of Newfoundland", "rank": 301}
+{"name": "Menofia University", "rank": 301}
+{"name": "Middlesex University", "rank": 301}
+{"name": "Missouri University of Science and Technology", "rank": 301}
+{"name": "National Taiwan University", "rank": 301}
+{"name": "National University of Sciences and Technology Pakistan", "rank": 301}
+{"name": "National Yang Ming Chiao Tung University", "rank": 301}
+{"name": "North China Electric Power University", "rank": 301}
+{"name": "Oklahoma State University", "rank": 301}
+{"name": "Polytechnic University of Madrid", "rank": 301}
+{"name": "Polytechnic University of Valencia", "rank": 301}
+{"name": "Pompeu Fabra University", "rank": 301}
+{"name": "Qingdao University of Science and Technology", "rank": 301}
+{"name": "Renmin University of China", "rank": 301}
+{"name": "Ryerson University", "rank": 301}
+{"name": "Sichuan Normal University", "rank": 301}
+{"name": "Soochow University (China)", "rank": 301}
+{"name": "Southwestern University of Finance and Economics", "rank": 301}
+{"name": "Sungkyunkwan University", "rank": 301}
+{"name": "SUNY New Paltz", "rank": 301}
+{"name": "Taiyuan University of Science and Technology", "rank": 301}
+{"name": "The Hebrew University of Jerusalem", "rank": 301}
+{"name": "The University of Calgary", "rank": 301}
+{"name": "The University of New Mexico - Albuquerque", "rank": 301}
+{"name": "The University of Newcastle, Australia", "rank": 301}
+{"name": "The University of Western Australia", "rank": 301}
+{"name": "Tohoku University", "rank": 301}
+{"name": "Università Della Svizzera Italiana", "rank": 301}
+{"name": "University College Dublin", "rank": 301}
+{"name": "University of Arizona", "rank": 301}
+{"name": "University of Arkansas at Fayetteville", "rank": 301}
+{"name": "University of Bergen", "rank": 301}
+{"name": "University of Bern", "rank": 301}
+{"name": "University of Bologna", "rank": 301}
+{"name": "University of Bonn", "rank": 301}
+{"name": "University of California, Riverside", "rank": 301}
+{"name": "University of California, Santa Cruz", "rank": 301}
+{"name": "University of East Anglia", "rank": 301}
+{"name": "University of Guelph", "rank": 301}
+{"name": "University of Jaen", "rank": 301}
+{"name": "University of Leeds", "rank": 301}
+{"name": "University of Liege", "rank": 301}
+{"name": "University of Manitoba", "rank": 301}
+{"name": "University of Montpellier", "rank": 301}
+{"name": "University of Nebraska - Lincoln", "rank": 301}
+{"name": "University of North Texas", "rank": 301}
+{"name": "University of Notre Dame", "rank": 301}
+{"name": "University of Oklahoma - Norman", "rank": 301}
+{"name": "University of Ottawa", "rank": 301}
+{"name": "University of Pisa", "rank": 301}
+{"name": "University of Quebec Montreal", "rank": 301}
+{"name": "University of Regina", "rank": 301}
+{"name": "University of Rochester", "rank": 301}
+{"name": "University of Salerno", "rank": 301}
+{"name": "University of Sao Paulo", "rank": 301}
+{"name": "University of Saskatchewan", "rank": 301}
+{"name": "University of Sherbrooke", "rank": 301}
+{"name": "University of South Florida", "rank": 301}
+{"name": "University of Stuttgart", "rank": 301}
+{"name": "University of Sussex", "rank": 301}
+{"name": "University of the Basque Country", "rank": 301}
+{"name": "University of Tuebingen", "rank": 301}
+{"name": "University of Victoria", "rank": 301}
+{"name": "Washington State University", "rank": 301}
+{"name": "West Virginia University", "rank": 301}
+{"name": "Wuhan University of Science and Technology", "rank": 301}
+{"name": "Wuhan University of Technology", "rank": 301}
+{"name": "Zhejiang Gongshang University", "rank": 301}
+{"name": "Zhongnan University of Economics and Law", "rank": 301}
+{"name": "Amirkabir University of Technology", "rank": 401}
+{"name": "Asia University", "rank": 401}
+{"name": "Autonomous University of Barcelona", "rank": 401}
+{"name": "Beijing Normal University", "rank": 401}
+{"name": "Beijing University of Chemical Technology", "rank": 401}
+{"name": "Cairo University", "rank": 401}
+{"name": "Carlos III University of Madrid", "rank": 401}
+{"name": "Catholic University of Louvain", "rank": 401}
+{"name": "China University of Petroleum (Huadong)", "rank": 401}
+{"name": "Clemson University", "rank": 401}
+{"name": "Cranfield University", "rank": 401}
+{"name": "Dartmouth College", "rank": 401}
+{"name": "Donghua University", "rank": 401}
+{"name": "Durham University", "rank": 401}
+{"name": "Edinburgh Napier University", "rank": 401}
+{"name": "Emory University", "rank": 401}
+{"name": "Federal University of Minas Gerais", "rank": 401}
+{"name": "Fujian Normal University", "rank": 401}
+{"name": "George Mason University", "rank": 401}
+{"name": "Henan University", "rank": 401}
+{"name": "Humboldt University of Berlin", "rank": 401}
+{"name": "Indian Institute of Technology Delhi", "rank": 401}
+{"name": "Indian Institute of Technology Kharagpur", "rank": 401}
+{"name": "ITMO University", "rank": 401}
+{"name": "Jiangnan University", "rank": 401}
+{"name": "Jiangsu University", "rank": 401}
+{"name": "Jiangxi University of Finance & Economics", "rank": 401}
+{"name": "Kyungpook National University", "rank": 401}
+{"name": "Kyushu Institute of Technology", "rank": 401}
+{"name": "Lakehead University", "rank": 401}
+{"name": "Lanzhou University", "rank": 401}
+{"name": "Laval University", "rank": 401}
+{"name": "Liaocheng University", "rank": 401}
+{"name": "Lund University", "rank": 401}
+{"name": "Massey University", "rank": 401}
+{"name": "Mayo Clinic Alix School of Medicine", "rank": 401}
+{"name": "National Institute of Technology Kurukshetra", "rank": 401}
+{"name": "National Tsing Hua University", "rank": 401}
+{"name": "Nazarbayev University", "rank": 401}
+{"name": "Nottingham Trent University", "rank": 401}
+{"name": "NOVA University Lisbon", "rank": 401}
+{"name": "Ocean University of China", "rank": 401}
+{"name": "Ontario Tech University", "rank": 401}
+{"name": "Oregon State University", "rank": 401}
+{"name": "Osaka University", "rank": 401}
+{"name": "Polytechnic University of Turin", "rank": 401}
+{"name": "Prince Sultan University", "rank": 401}
+{"name": "Queen's University", "rank": 401}
+{"name": "Rice University", "rank": 401}
+{"name": "Rochester Institute of Technology", "rank": 401}
+{"name": "Shandong University of Finance and Economics", "rank": 401}
+{"name": "ShanghaiTech University", "rank": 401}
+{"name": "Sharif University of Technology", "rank": 401}
+{"name": "Stockholm University", "rank": 401}
+{"name": "The George Washington University", "rank": 401}
+{"name": "The University of Georgia", "rank": 401}
+{"name": "Trinity College Dublin", "rank": 401}
+{"name": "TU Dresden", "rank": 401}
+{"name": "Universidad Publica de Navarra", "rank": 401}
+{"name": "University of Aizu", "rank": 401}
+{"name": "University of Aveiro", "rank": 401}
+{"name": "University of Bath", "rank": 401}
+{"name": "University of Cagliari", "rank": 401}
+{"name": "University of Campinas", "rank": 401}
+{"name": "University of Chile", "rank": 401}
+{"name": "University of Cincinnati", "rank": 401}
+{"name": "University of Connecticut", "rank": 401}
+{"name": "University of Delaware", "rank": 401}
+{"name": "University of Duisburg-Essen", "rank": 401}
+{"name": "University of Geneva", "rank": 401}
+{"name": "University of Goettingen", "rank": 401}
+{"name": "University of Groningen", "rank": 401}
+{"name": "University of Hamburg", "rank": 401}
+{"name": "University of Jyvaskyla", "rank": 401}
+{"name": "University of Konstanz", "rank": 401}
+{"name": "University of Lille", "rank": 401}
+{"name": "University of Ljubljana", "rank": 401}
+{"name": "University of Lorraine", "rank": 401}
+{"name": "University of Malaga", "rank": 401}
+{"name": "University of Missouri - Columbia", "rank": 401}
+{"name": "University of New Brunswick", "rank": 401}
+{"name": "University of Paris", "rank": 401}
+{"name": "University of Porto", "rank": 401}
+{"name": "University of Salamanca", "rank": 401}
+{"name": "University of Seville", "rank": 401}
+{"name": "University of Shanghai for Science and Technology", "rank": 401}
+{"name": "University of Strathclyde", "rank": 401}
+{"name": "University of Tasmania", "rank": 401}
+{"name": "University of Tennessee - Knoxville", "rank": 401}
+{"name": "University of Turku", "rank": 401}
+{"name": "University of Vienna", "rank": 401}
+{"name": "University of Windsor", "rank": 401}
+{"name": "University of York", "rank": 401}
+{"name": "UOC Universitat Oberta de Catalunya", "rank": 401}
+{"name": "Uppsala University", "rank": 401}
+{"name": "Virginia Commonwealth University", "rank": 401}
+{"name": "Vrije Universiteit Brussel (VUB)", "rank": 401}
+{"name": "Wageningen University & Research", "rank": 401}
+{"name": "Zhejiang Normal University", "rank": 401}
+{"name": "Zhengzhou University", "rank": 401}

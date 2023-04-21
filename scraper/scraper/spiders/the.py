@@ -1,6 +1,6 @@
 import scrapy
 
-from scraper.items import TheItemLoader
+from scraper.items import UniItemLoader
 
 
 class TheSpider(scrapy.Spider):
@@ -11,7 +11,7 @@ class TheSpider(scrapy.Spider):
     def parse(self, response):
         ranking = response.json()["data"]
         for uni in ranking:
-            loader = TheItemLoader()
+            loader = UniItemLoader()
             loader.add_value("name", uni["name"])
             loader.add_value("rank", uni["rank"])
             yield loader.load_item()

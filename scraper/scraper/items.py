@@ -12,17 +12,18 @@ from scrapy.loader.processors import TakeFirst, MapCompose
 def format_(rank):
     rank = rank.removeprefix("=")
     rank = rank.removesuffix("+")
-    if len(rank) == 7:  # E.g. 201-300 --> 201
-        rank = rank[:3]
+    if "-" in rank or "–" in rank:
+        # E.g. 100-200 -> 100, 75-100 -> 75, 50-75 -> 50
+        rank = rank[:3] if len(rank) == 7 else rank[:2]
     return int(rank)
 
 
-class TheItem(scrapy.Item):
+class UniItem(scrapy.Item):
     name = scrapy.Field()
     rank = scrapy.Field()
 
 
-class TheItemLoader(ItemLoader):
-    default_item_class = TheItem  # Special var to tie Item and ItemLoader
+class UniItemLoader(ItemLoader):
+    default_item_class = UniItem  # Special var to tie Item and ItemLoader
     default_output_processor = TakeFirst()  # Since usual default is Identity()
     rank_in = MapCompose(format_)
