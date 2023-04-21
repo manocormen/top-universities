@@ -18,7 +18,7 @@ class ArwuSpider(scrapy.Spider):
 
     def start_requests(self):
         yield scrapy.Request(
-            url=arwu_urls["cs"][2022],
+            url=arwu_urls[self.subject][int(self.year)],
             meta={
                 "playwright": True,
                 "playwright_include_page": True,

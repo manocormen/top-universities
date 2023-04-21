@@ -6,8 +6,9 @@ from scraper.settings import the_urls
 
 class TheSpider(scrapy.Spider):
     name = "the"
-    allowed_domains = ["www.timeshighereducation.com"]
-    start_urls = [the_urls["cs"][2023]]
+
+    def start_requests(self):
+        yield scrapy.Request(url=the_urls[self.subject][int(self.year)])
 
     def parse(self, response):
         ranking = response.json()["data"]

@@ -5,8 +5,9 @@ from scraper.settings import qs_urls
 
 class QsSpider(scrapy.Spider):
     name = "qs"
-    allowed_domains = ["www.topuniversities.com"]
-    start_urls = [qs_urls["cs"][2023]]
+
+    def start_requests(self):
+        yield scrapy.Request(url=qs_urls[self.subject][int(self.year)])
 
     def parse(self, response):
         ranking = response.json()["score_nodes"]
