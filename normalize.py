@@ -25,6 +25,7 @@ main2alts = {
         "Nanyang Technological University",
         "Nanyang Technological University, Singapore",
         "Nanyang Technological University, Singapore (NTU)",
+        "Nanyang Technological University, Singapore (NTU Singapore)",
     ],
     "National University of Singapore (NUS)": ["National University of Singapore",],
     "New York University (NYU)": ["New York University",],
@@ -38,7 +39,10 @@ main2alts = {
         "Penn State (Main campus)",
         "Pennsylvania State University - University Park",
     ],
-    "Purdue University": ["Purdue University - West Lafayette",],
+    "Purdue University": [
+        "Purdue University - West Lafayette",
+        "Purdue University West Lafayette",
+    ],
     "Swiss Federal Institute of Technology Lausanne (EPFL)": [
         "Swiss Federal Institute of Technology Lausanne",
         "EPFL",
@@ -48,10 +52,13 @@ main2alts = {
     "Technical University of Berlin": ["Technische Universität Berlin (TU Berlin)",],
     "Chinese University of Hong Kong (CUHK)": [
         "Chinese University of Hong Kong",
+        "The Chinese University of Hong Kong (CUHK)",
     ],
     "University of New South Wales (UNSW Sydney)": [
         "University of New South Wales",
+        "The University of New South Wales",
         "UNSW Sydney",
+        "The University of New South Wales (UNSW Sydney)",
     ],
     "Tokyo Institute of Technology (Tokyo Tech)": ["Tokyo Institute of Technology"],
     "University College London (UCL)": ["University College London", "UCL",],
@@ -132,6 +139,48 @@ main2alts = {
     "Yonsei University": [
         "Yonsei University (Seoul campus)",
     ],
+    "University of Bologna": [
+        "Alma Mater Studiorum - University of Bologna",
+    ],
+    "Australian National University": [
+        "Australian National University (ANU)",
+    ],
+    "Carnegie Mellon University (CMU)": [
+        "Carnegie Mellon University",
+    ],
+    "University of Chicago": [
+        "The University of Chicago",
+    ],
+    "University of Edinburgh": [
+        "The University of Edinburgh",
+    ],
+    "University of Hong Kong": [
+        "The University of Hong Kong",
+    ],
+    "University of Manchester": [
+        "The University of Manchester",
+    ],
+    "University of Melbourne": [
+        "The University of Melbourne",
+    ],
+    "University of Sydney": [
+        "The University of Sydney",
+    ],
+    "University of Tokyo": [
+        "The University of Tokyo",
+    ],
+    "University of Warwick": [
+        "The University of Warwick",
+    ],
+    "Trinity College Dublin": [
+        "Trinity College Dublin, The University of Dublin",
+    ],
+    "Polytechnic University of Catalonia (BarcelonaTech)": [
+        "Universitat Politècnica de Catalunya · BarcelonaTech (UPC)",
+    ],
+    "University of Maryland": [
+        "University of Maryland, College Park",
+    ],
 }
 
 alt2main = dict()
@@ -142,7 +191,7 @@ for main, alts in main2alts.items():
 
 #pprint(alt2main)
 
-main2id = {
+uni2id = {
     "Massachusetts Institute of Technology (MIT)": 39,
     "Stanford University": 1,
     "Carnegie Mellon University": 40,
@@ -230,4 +279,11 @@ main2id = {
     "Texas A&M University": 1555,
     "University of Mannheim": 2239,
     "University of Queensland": 224,
+    "Carnegie Mellon University (CMU)": 40,
+    "The Hong Kong University of Science and Technology": 31,
+    "Institut Polytechnique de Paris": 2244,
+    "University of Maryland": 22,
+    "King Abdulaziz University (KAU)": 918,
+    "University of Amsterdam": 117,
+    "Delft University of Technology": 98,
 }
