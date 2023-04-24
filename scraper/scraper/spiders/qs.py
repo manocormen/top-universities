@@ -13,6 +13,6 @@ class QsSpider(scrapy.Spider):
         ranking = response.json()["score_nodes"]
         for uni in ranking:
             yield {
-                "name": uni["title"],
+                "name": uni["title"].strip(),
                 "rank": int(uni["rank"]),
             }
