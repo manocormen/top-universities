@@ -23,5 +23,5 @@ Combine leading university rankings using Python and JupyterLab.
 $ cd top-universities/scraper
 $ scrapy crawl qs -O data_scraped/qs.jsonl -a subject=cs -a year=2023
 $ scrapy crawl the -O data_scraped/the.jsonl -a subject=cs -a year=2023
-$ scrapy crawl arwu -O data_scraped/arwu.jsonl -a subject=cs -a year=2022
+$ scrapy crawl arwu -O data_scraped/arwu.jsonl -a subject=cs -a year=2023
 ```

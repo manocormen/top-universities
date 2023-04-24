@@ -112,8 +112,9 @@ the_urls = dict(
     },
 )
 
+# We're using the scraping year as key, so it might not match the ranking release year.
 arwu_urls = dict(
     cs = {
-        2022: "https://www.shanghairanking.com/rankings/gras/2022/RS0210",
+        2023: "https://www.shanghairanking.com/rankings/gras/2022/RS0210",
     },
 )
