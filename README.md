@@ -6,8 +6,8 @@ Combine leading university rankings using Python and JupyterLab.
 
 ## Articles
 
-* [600+ Free Computer Science Courses from World’s Top 50 Universities](https://www.classcentral.com/report/cs-online-courses/)
-* [100+ Math Courses from the World’s Top CS Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
+* [900 Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
+* [100+ Math Courses from the World’s Top Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
 
 ## Data Sources
 
