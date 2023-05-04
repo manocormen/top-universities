@@ -104,12 +104,18 @@ qs_urls = dict(
     cs = {
         2023: "https://www.topuniversities.com/rankings/endpoint?nid=3846233&page=0&items_per_page=700&tab=&region=&countries=&cities=&search=&star=&sort_by=&order_by=",
     },
+    math = {
+        2023: "https://www.topuniversities.com/rankings/endpoint?nid=3846266&page=0&items_per_page=600&tab=&region=&countries=&cities=&search=&star=&sort_by=&order_by=",
+    }
 )
 
 the_urls = dict(
     cs = {
         2023: "https://www.timeshighereducation.com/sites/default/files/the_data_rankings/computer_science_rankings_2023_0__0f480cc165726b46cd42a2f6fa025532.json",
     },
+    math = {
+        2023: "https://www.timeshighereducation.com/sites/default/files/the_data_rankings/physical_sciences_rankings_2023_0__01ae01e966eb0115e15606ded0d6748e.json",
+    }
 )
 
 # We're using the scraping year as key, so it might not match the ranking release year.
@@ -117,4 +123,7 @@ arwu_urls = dict(
     cs = {
         2023: "https://www.shanghairanking.com/rankings/gras/2022/RS0210",
     },
+    math = {
+        2023: "https://www.shanghairanking.com/rankings/gras/2022/RS0101",
+    }
 )
