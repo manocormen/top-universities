@@ -101,6 +101,7 @@ main2alts = {
     "Ohio State University": [
         "Ohio State University - Columbus",
         "Ohio State University (Main campus)",
+        "The Ohio State University",
     ],
     "University of Bonn": [
         "Rheinische Friedrich-Wilhelms-Universität Bonn",
@@ -119,6 +120,7 @@ main2alts = {
     ],
     "London School of Economics and Political Science (LSE)": [
         "London School of Economics and Political Science",
+        "The London School of Economics and Political Science (LSE)",
     ],
     "Northwestern University": [
         "Northeastern University (Boston)",
@@ -180,6 +182,21 @@ main2alts = {
     ],
     "University of Maryland": [
         "University of Maryland, College Park",
+    ],
+    "Hebrew University of Jerusalem": [
+        "The Hebrew University of Jerusalem",
+    ],
+    "Hong Kong University of Science and Technology": [
+        "The Hong Kong University of Science and Technology",
+    ],
+    "University of Queensland": [
+        "The University of Queensland",
+    ],
+    "University of Texas at Austin": [
+        "The University of Texas at Austin",
+    ],
+    "École Normale Supérieure de Lyon": [
+        "Ecole Normale Superieure - Lyon",
     ],
 }
 
@@ -286,4 +303,17 @@ uni2id = {
     "King Abdulaziz University (KAU)": 918,
     "University of Amsterdam": 117,
     "Delft University of Technology": 98,
+    "Hebrew University of Jerusalem": 27,
+    "Rutgers University": 64,
+    "Ludwig Maximilian University of Munich (LMU)": 58,
+    "Universität Heidelberg": 776,
+    "Politecnico di Milano": 416,
+    "Université Grenoble Alpes": 1342,
+    "Tel Aviv University": 103,
+    "Nanjing University": 617,
+    "University of Sao Paulo": 511,
+    "University of Colorado Boulder": 68,
+    "École Normale Supérieure de Lyon": 841,
+    "University of California, Irvine": 23,
+    "Purdue University": 557,
 }
