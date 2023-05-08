@@ -33,6 +33,10 @@ $ scrapy crawl arwu -O data_scraped/arwu_cs_2023.jsonl -a subject=cs -a year=202
 3. Open the Jupyter Notebook, edit the settings and run it.
 4. Update `normalize.py` as needed to fix the university names.
 
+## Ouput
+
+![Top 10 universities for studying computer science in 2023](top-10-universities-cs-2023.png)
+
 ## Articles
 
 * [900 Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
