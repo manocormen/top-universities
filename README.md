@@ -39,5 +39,5 @@ $ scrapy crawl arwu -O data_scraped/arwu_cs_2023.jsonl -a subject=cs -a year=202
 
 ## Articles
 
-* [900 Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
-* [150 Math Courses from the World’s Top Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
+* [Free Computer Science Courses from World’s Top Universities](https://www.classcentral.com/report/cs-online-courses/)
+* [Free Math Courses from the World’s Top Universities](https://www.classcentral.com/report/mathematics-statistics-free-online-courses/)
